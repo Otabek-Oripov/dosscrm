@@ -78,7 +78,7 @@ function Hero() {
             </h1>
 
             <p className="mt-8 text-[16px] text-[var(--color-muted)] max-w-[480px] leading-relaxed">
-              RetakeDossCrm — sariq va qora estetikasi bilan ajralib turgan minimal CRM. Buyurtmalar,
+              DossCRM — sariq va qora estetikasi bilan ajralib turgan minimal CRM. Buyurtmalar,
               mahsulotlar va mijozlar. Tezlik bilan.
             </p>
 
@@ -444,7 +444,7 @@ function Pricing() {
 function Testimonials() {
   const items = [
     {
-      quote: "RetakeDossCrm interfeysi yorqin va kuchli. Sariq aksent juda yaqdi.",
+      quote: "DossCRM interfeysi yorqin va kuchli. Sariq aksent juda yaqdi.",
       name: "Aziza Yusupova",
       role: "Atelier 21, Egasi",
       img: fashionPortrait("dc-t1", 80, 80),
