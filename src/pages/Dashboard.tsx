@@ -75,7 +75,7 @@ export function Dashboard() {
               spark={sparkRevenue}
             />
             <StatCard
-              label="Mijozlar"
+              label="Reteck"
               value={fmtNumber(data?.customerCount)}
               icon={UsersIcon}
             />
