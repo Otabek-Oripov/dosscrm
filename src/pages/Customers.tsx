@@ -102,7 +102,7 @@ export function Customers() {
   return (
     <div className="space-y-5">
       <PageHeader
-        title="Mijozlar"
+        title="Reteck"
         description={`${listQ.data?.length ?? 0} ta mijoz`}
         actions={
           <Button variant="brand" size="sm" onClick={() => setShowCreate(true)}>
