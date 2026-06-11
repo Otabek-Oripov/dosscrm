@@ -39,7 +39,7 @@ function Nav() {
             Narx
           </a>
           <a href="#testimonials" className="hover:text-[var(--color-foreground)] anim">
-            Mijozlar
+            Reteck
           </a>
         </nav>
         <div className="flex items-center gap-2">
