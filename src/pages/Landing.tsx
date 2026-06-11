@@ -71,7 +71,7 @@ function Hero() {
             </div>
 
             <h1 className="text-[56px] lg:text-[96px] leading-[0.93] font-semibold tracking-display text-balance">
-              Hasanxon uchun{" "}
+              Businezingiz uchun{" "}
               <span className="marker-y">yorqin</span>
               <br />
               boshqaruv.

@@ -54,7 +54,7 @@ export function Dashboard() {
     <div className="space-y-6">
       <PageHeader
         title={`Salom, ${user?.name?.split(" ")[0] ?? ""}`}
-        description="Bugungi biznesingiz qisqacha ko'rinishi."
+        description="Bugungi DossCRMnesingiz qisqacha ko'rinishi."
       />
 
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
